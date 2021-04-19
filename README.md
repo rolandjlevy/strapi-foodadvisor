@@ -2,7 +2,7 @@
 
 ## 1. Clone FoodAdvisor
 
-Clone FoodAdvisor
+Clone [FoodAdvisor](https://github.com/strapi/foodadvisor)
 
 `Path: ./my-projects/`:
 
